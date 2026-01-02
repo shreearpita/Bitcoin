@@ -1,5 +1,5 @@
 import sys
-sys.path.append('Users/arpit/PycharmProjects/pythonProject2/Bitcoin')
+sys.path.append('#')
 
 from .block import Block
 from .blockheader import BlockHeader
